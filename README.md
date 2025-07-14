@@ -37,7 +37,7 @@ dslr-diaries/
 *(No backend/server required—pure frontend!)*  
 
 ## **🌐 Live Demo**  
-🔗 [View on GitHub Pages / Vercel / Netlify]() *<!-- Add your link -->*  
+🔗 [View on Netlify]() *(https://dslrdiaries.netlify.app/)*  
 
 ## **💡 Future Improvements**  
 - [ ] Add JavaScript for interactivity (lightbox, filters)  
